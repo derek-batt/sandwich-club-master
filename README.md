@@ -18,7 +18,8 @@ Through this project, I
 - Designed an activity layout
 - Populated all fields in the layout accordingly
 
-## How I Completed this Project
-Designed the layout for the detail activity so the different elements
-display in a sensible way. Implemented the JSON parsing in JsonUtils so it
-produced a Sandwich Object that can be used to populate the UI that I designed.
+## How This Project was Completed 
+To complete this project, I
+- Designed the layout for the detail activity so the different elements display in a sensible way
+- Implemented the JSON parsing in JsonUtils so it produced a Sandwich Object that can be used to populate the UI that I designed.
+
